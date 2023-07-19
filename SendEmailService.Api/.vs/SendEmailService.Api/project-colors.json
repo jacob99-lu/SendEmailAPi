@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5246a2ae-9cce-4818-9bfa-eb85c67e1332": {
+      "ProjectGuid": "5246a2ae-9cce-4818-9bfa-eb85c67e1332",
+      "DisplayName": "SendEmailService.Api",
+      "ColorIndex": 0
+    },
+    "3e3b1758-b27f-4a70-9d1a-851440f050ea": {
+      "ProjectGuid": "3e3b1758-b27f-4a70-9d1a-851440f050ea",
+      "DisplayName": "SendEamilService.Infrastructure",
+      "ColorIndex": 1
+    },
+    "4346313d-463c-4805-9498-73033d70fade": {
+      "ProjectGuid": "4346313d-463c-4805-9498-73033d70fade",
+      "DisplayName": "SendEamilService.Domain",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "杂项文件",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}

@@ -1,0 +1,15 @@
+E:\WorkItems\SendEmailService\SendEamilService.Infrastructure\bin\Debug\net6.0\SendEamilService.Infrastructure.deps.json
+E:\WorkItems\SendEmailService\SendEamilService.Infrastructure\bin\Debug\net6.0\SendEamilService.Infrastructure.dll
+E:\WorkItems\SendEmailService\SendEamilService.Infrastructure\bin\Debug\net6.0\SendEamilService.Infrastructure.pdb
+E:\WorkItems\SendEmailService\SendEamilService.Infrastructure\bin\Debug\net6.0\SendEamilService.Domain.dll
+E:\WorkItems\SendEmailService\SendEamilService.Infrastructure\bin\Debug\net6.0\SendEamilService.Domain.pdb
+E:\WorkItems\SendEmailService\SendEamilService.Infrastructure\obj\Debug\net6.0\SendEamilService.Infrastructure.csproj.AssemblyReference.cache
+E:\WorkItems\SendEmailService\SendEamilService.Infrastructure\obj\Debug\net6.0\SendEamilService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkItems\SendEmailService\SendEamilService.Infrastructure\obj\Debug\net6.0\SendEamilService.Infrastructure.AssemblyInfoInputs.cache
+E:\WorkItems\SendEmailService\SendEamilService.Infrastructure\obj\Debug\net6.0\SendEamilService.Infrastructure.AssemblyInfo.cs
+E:\WorkItems\SendEmailService\SendEamilService.Infrastructure\obj\Debug\net6.0\SendEamilService.Infrastructure.csproj.CoreCompileInputs.cache
+E:\WorkItems\SendEmailService\SendEamilService.Infrastructure\obj\Debug\net6.0\SendEamilService.Infrastructure.csproj.CopyComplete
+E:\WorkItems\SendEmailService\SendEamilService.Infrastructure\obj\Debug\net6.0\SendEamilService.Infrastructure.dll
+E:\WorkItems\SendEmailService\SendEamilService.Infrastructure\obj\Debug\net6.0\ref\SendEamilService.Infrastructure.dll
+E:\WorkItems\SendEmailService\SendEamilService.Infrastructure\obj\Debug\net6.0\SendEamilService.Infrastructure.pdb
+E:\WorkItems\SendEmailService\SendEamilService.Infrastructure\bin\Debug\net6.0\ref\SendEamilService.Infrastructure.dll

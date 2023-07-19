@@ -1,0 +1,12 @@
+E:\WorkItems\SendEmailService\SendEamilService.Domain\bin\Release\net6.0\SendEamilService.Domain.deps.json
+E:\WorkItems\SendEmailService\SendEamilService.Domain\bin\Release\net6.0\SendEamilService.Domain.dll
+E:\WorkItems\SendEmailService\SendEamilService.Domain\bin\Release\net6.0\ref\SendEamilService.Domain.dll
+E:\WorkItems\SendEmailService\SendEamilService.Domain\bin\Release\net6.0\SendEamilService.Domain.pdb
+E:\WorkItems\SendEmailService\SendEamilService.Domain\obj\Release\net6.0\SendEamilService.Domain.csproj.AssemblyReference.cache
+E:\WorkItems\SendEmailService\SendEamilService.Domain\obj\Release\net6.0\SendEamilService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkItems\SendEmailService\SendEamilService.Domain\obj\Release\net6.0\SendEamilService.Domain.AssemblyInfoInputs.cache
+E:\WorkItems\SendEmailService\SendEamilService.Domain\obj\Release\net6.0\SendEamilService.Domain.AssemblyInfo.cs
+E:\WorkItems\SendEmailService\SendEamilService.Domain\obj\Release\net6.0\SendEamilService.Domain.csproj.CoreCompileInputs.cache
+E:\WorkItems\SendEmailService\SendEamilService.Domain\obj\Release\net6.0\SendEamilService.Domain.dll
+E:\WorkItems\SendEmailService\SendEamilService.Domain\obj\Release\net6.0\ref\SendEamilService.Domain.dll
+E:\WorkItems\SendEmailService\SendEamilService.Domain\obj\Release\net6.0\SendEamilService.Domain.pdb

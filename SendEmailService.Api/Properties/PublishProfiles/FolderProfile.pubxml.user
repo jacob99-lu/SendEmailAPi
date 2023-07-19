@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <History>True|2023-04-25T08:21:22.4955144Z;True|2023-03-08T10:05:21.8264838+08:00;True|2023-03-07T18:20:37.6711151+08:00;True|2023-03-07T17:58:35.1832546+08:00;True|2023-02-28T11:32:03.0888482+08:00;True|2023-02-27T16:42:04.8678119+08:00;False|2023-02-27T16:41:43.7689954+08:00;True|2023-02-22T17:39:07.2974287+08:00;True|2023-02-22T17:39:02.5657774+08:00;False|2023-02-22T17:38:37.6714953+08:00;False|2023-02-22T17:38:31.2681758+08:00;</History>
+    <_PublishTargetUrl>E:\WorkItems\SendEmailService\public</_PublishTargetUrl>
+  </PropertyGroup>
+</Project>
